@@ -1,2 +1,1 @@
-# Competition
-Kaggle and Other Competition Library
+# Competition Experience
