@@ -1,2 +1,2 @@
-# Competition
-Kaggle and Other Competition Library
+# Learning Materials
+
