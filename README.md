@@ -1,6 +1,6 @@
 # Competition
 ### [Competition Experience : Contest Codes and Program Records Participated](https://github.com/XiN0919/Competition/tree/main/Competition%20Experience)
-| Competition Name | Type | Ranking | Solutions | Code |
+| Competition Name | Type | Rank | Solution | Code |
 | :-: | :---: | :---: | :--- | :---|
 |   |  |   |   |   | |
 
