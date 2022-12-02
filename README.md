@@ -7,6 +7,7 @@
 
 <br>
 <br>
+
 ## [Learning Materials : Collection of Kaggle and Other Competition Solutions and Ideas](https://github.com/XiN0919/Competition/tree/main/Learning%20Materials)
 | Competition Name | Type | Rank | Solution | Code |
 | :-: | :---: | :---: | :--- | :---|
