@@ -1,2 +1,6 @@
 # Competition
-Kaggle and Other Competition Library
+### Competition Experience : Contest Codes and Program Records Participated
+
+
+
+### Learning Materials : Collection of Kaggle and Other Competition Solutions and Ideas
