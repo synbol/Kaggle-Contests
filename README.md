@@ -11,4 +11,4 @@
 ## [Learning Materials : Collection of Kaggle Solutions and Ideas](https://github.com/XiN0919/Competition/tree/main/Learning%20Materials)
 | Competition Name | Type | Rank | Solution | Code |
 | :-: | :---: | :---: | :--- | :---|
-| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview/description) | NLP;<br>Classification | - | Encoding+Seq2Classifitcation |  |
+| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview/description) | NLP;<br>Classification | - | Encoding+SequenceClassification |  |
