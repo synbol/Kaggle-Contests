@@ -3,7 +3,7 @@
 ## [Competition Experience : My Solutions and Codes](https://github.com/XiN0919/Competition/tree/main/Competition%20Experience)
 | Competition Name | Type | Rank | Solution | Code |
 | :-: | :---: | :---: | :--- | :---|
-|  DCIC-大数据赛道 | Time Series Forecasting |  1 / 1538 | [Paper]() | [Code](https://github.com/XiN0919/DriftTrajectory) |
+|  Digital China Innovation Contest | Time Series Forecasting |  1 / 1538 | [Paper]() | [Code](https://github.com/XiN0919/DriftTrajectory) |
 
 <br>
 <br>
