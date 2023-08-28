@@ -3,11 +3,11 @@
 ### [My Contest Experience : Solutions and Codes](https://github.com/XiN0919/Competition/tree/main/Competition%20Experience)
 | Number | Contest Name | Type | Rank | Solution | Code |
 | :-: | :-: | :---: | :---: | :---: | :---:|
-| 1 |  [Digital China Innovation Contest](https://www.datafountain.cn/competitions/497) | Time Series Forecasting |  1 / 1538 | [Paper]() | [Code](https://github.com/XiN0919/DriftTrajectory) |
+| 1 |  [Digital China Innovation Contest](https://www.datafountain.cn/competitions/497) | Time Series Forecasting |  1 / 1538 | [solution]() | [Code](https://github.com/XiN0919/DriftTrajectory) |
 <br>
 <br>
 
 ### [Learning Materials : Collection of Kaggle Solutions](https://github.com/XiN0919/Competition/tree/main/Learning%20Materials)
 | Contest Name | Type | Solution | Code |
 | :-: | :---: | :---: | :---|
-| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview/description) | NLP;<br>Classification| [Encoding+SequenceClassification](https://github.com/XiN0919/Competition/tree/main/Learning%20Materials/Natural%20Language%20Processing%20with%20Disaster%20Tweets) | [Code](https://github.com/XiN0919/Competition/tree/main/Learning%20Materials/Natural%20Language%20Processing%20with%20Disaster%20Tweets) |
+| [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview/description) | NLP;<br>Classification| [solution](https://github.com/XiN0919/Competition/tree/main/Learning%20Materials/Natural%20Language%20Processing%20with%20Disaster%20Tweets) | [Code](https://github.com/XiN0919/Competition/tree/main/Learning%20Materials/Natural%20Language%20Processing%20with%20Disaster%20Tweets) |
