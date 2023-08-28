@@ -4,6 +4,7 @@
 | Number | Contest Name | Type | Rank | Solution | Code |
 | :-: | :-: | :---: | :---: | :--- | :---|
 | 1 |  Digital China Innovation Contest | Time Series Forecasting |  1 / 1538 | [Paper]() | [Code](https://github.com/XiN0919/DriftTrajectory) |
+| 1 |  Digital China Innovation Contest | Time Series Forecasting |  1 / 1538 | [Paper]() | [Code](https://github.com/XiN0919/DriftTrajectory) |
 
 <br>
 <br>
