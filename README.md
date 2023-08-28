@@ -3,7 +3,7 @@
 ### [My Contest Experience : Solutions and Codes](https://github.com/XiN0919/Competition/tree/main/Competition%20Experience)
 | Number | Contest Name | Type | Rank | Solution | Code |
 | :-: | :-: | :---: | :---: | :---: | :---:|
-| 1 |  Digital China Innovation Contest | Time Series Forecasting |  1 / 1538 | [Paper]() | [Code](https://github.com/XiN0919/DriftTrajectory) |
+| 1 |  [Digital China Innovation Contest](https://www.datafountain.cn/competitions/497) | Time Series Forecasting |  1 / 1538 | [Paper]() | [Code](https://github.com/XiN0919/DriftTrajectory) |
 <br>
 <br>
 
