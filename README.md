@@ -1,9 +1,9 @@
 ## Contest ([Kaggle Profile](https://www.kaggle.com/xinyi0919))
 
 ### My Contest Experience : Solutions and Codes
-| Number | Contest Name | Type | Rank | Solution | Code |
-| :-: | :-: | :---: | :---: | :---: | :---:|
-| 1 |  [Digital China Innovation Contest](https://www.datafountain.cn/competitions/497) | Time Series Forecasting |  1 / 1538 | [solution]() | [Code](https://github.com/XiN0919/DriftTrajectory) |
+| Number | Contest Name | Type | Rank | Solution |
+| :-: | :-: | :---: | :---: | :---: |
+| 1 |  [Digital China Innovation Contest](https://www.datafountain.cn/competitions/497) | Time Series Forecasting |  1 / 1538 | [solution](https://github.com/synbol/Kaggle-Contests/tree/main/1.Digital%20China%20Innovation%20Contest) |
 <br>
 <br>
 
