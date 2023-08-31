@@ -1,3 +1,22 @@
+<h1 align='center'>
+  <br>
+  Kaggle Solutions
+  <br>
+</h1>
+
+<h4 align="center">
+  A Record of My Kaggle & Other Contests Solving Journey.
+</h4>
+
+<div align="center">
+  <a href="" target='_blank'>
+    <img src="https://img.shields.io/badge/Update-Weekly-green.svg">
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="http://makeapullrequest.com" target='_blank'>
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
+  </a>
+</div>
+
 ## My Contest Experience : Solutions and Codes ([Kaggle Profile](https://www.kaggle.com/xinyi0919))
 | Number | Contest Name | Type | Rank | Solution | Bonus | 
 | :-: | :-: | :---: | :---: | :---: | :---: |
