@@ -10,6 +10,9 @@
 
 <div align="center">
   <a href="" target='_blank'>
+    <img src="https://img.shields.io/badge/Language-Python-orange.svg?logo=Python&logoColor=yellow">
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="" target='_blank'>
     <img src="https://img.shields.io/badge/Update-Weekly-green.svg">
   </a> &nbsp;&nbsp;&nbsp;
   <a href="http://makeapullrequest.com" target='_blank'>
