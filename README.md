@@ -5,8 +5,10 @@
 </h1>
 
 <h4 align="center">
-  A Record of My Kaggle & Other Contests Solving Journey. ([Kaggle Profile](https://www.kaggle.com/xinyi0919))
+  A Record of My Kaggle & Other Contests Solving Journey. 
 </h4>
+
+([Kaggle Profile](https://www.kaggle.com/xinyi0919))
 
 <div align="center">
   <a href="" target='_blank'>
